@@ -55,17 +55,3 @@ def test_findFirstAndLast__negative():
     expected = (-1, -1)
     result = num.findFirstAndLast([1, 2, 3, 4, 5], 8)
     assert result == expected
-
-# def test_findFirstAndLast_number_not_found_negative():
-#     num = NumberSeries(None)
-#     expected = (-1, -1)
-#     result = num.findFirstAndLast([1, 2, 3, 4, 5], 8)
-#     assert result == expected
-#
-# def test_findFirstAndLast_number_not_found_negative():
-#     num = NumberSeries(None)
-#     expected = (-1, -1)
-#     result = num.findFirstAndLast([1, 2, 3, 4, 5], 8)
-#     assert result == expected
-#
-#

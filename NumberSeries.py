@@ -24,4 +24,3 @@ class NumberSeries:
             return (first, last)
         else:
             return (-1, -1)
-

@@ -2,7 +2,7 @@
 
 The purpose of this simple exercise is to understand how a simple method can be tested.
 
-In evaluating the response, we look for 
+In evaluating the response, we look for:
 - the types of test cases.
 - what edge cases may be covered.
 - positive and negative test cases.
