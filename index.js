@@ -22,7 +22,7 @@ app.post('/create-user', function (req, res) {
         firstName: req.body.firstName,
         lastName: req.body.lastName,
     }
-    if(!body.firstName.match(/^[0-9]+$/) && !body.lastName.match(/^[0-9]+$/)){
+    if(!body.firstName.match(/\d/) && !body.lastName.match(/\d/)){
         console.log(`A new user was created: ${body.username}`);
         res.send('User created: ' + body.username);
     } else {
