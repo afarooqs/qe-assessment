@@ -1,0 +1,22 @@
+{
+  "name": "qe-assessment",
+  "version": "1.0.0",
+  "description": "Quality Engineering assessment API.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afarooqs/qe-assessment.git"
+  },
+  "author": "Ahmed F. Siddiqui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afarooqs/qe-assessment/issues"
+  },
+  "homepage": "https://github.com/afarooqs/qe-assessment#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
