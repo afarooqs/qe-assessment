@@ -34,7 +34,7 @@ API will run on port `8888`.
 
 - Clone `git@github.com:afarooqs/qe-assessment.git`
 - Install `npm install`
-- Run `node index`
+- Run `node index` or `npm start`
 
 ### Assignment
 1. Please write your response and either zip your response  or upload on github.
@@ -44,4 +44,3 @@ API will run on port `8888`.
 
 ### Questions? 
 Please reach out to ahmed@narmitech.com for any questions or clarifications.
-
